@@ -19,7 +19,6 @@
         </div>
     </div>
     <div class="timer_cpd">
-        <p>If starting now,</p>
-        <p>Chapters per day : <span id="timer_cpd">0.0</span></p>
+        <p>If starting now, chapters per day : <span id="timer_cpd">0.0</span></p>
     </div>
 </div>
