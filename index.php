@@ -117,7 +117,7 @@ include "php/db.php";
     <div class="div_1 footer">
       <p class="footer_p">Developed and Maintained by the IDOL CS Community</p>
       <p class="footer_p">IDOLCS.com is an opensource project, the source code can be found on the official <a
-          href="https://github.com/yashkolambekar/idolcs.com">Github Repository</a>, feel free to contribute.</p>
+          href="https://github.com/idolcs/idolcs.com-legacy">Github Repository</a>, feel free to contribute.</p>
       <p class="footer_small">This is website / community does not support, endorse or perform piracy. Contact the
         admins on Telegram for removal of any copyrighted material.</p>
     </div>
