@@ -11,6 +11,7 @@ include "php/db.php";
   <title>IDOL CS</title>
   <link rel="stylesheet" href="css/base.css?v=1.1" />
   <link rel="stylesheet" href="css/index.css?v=1.3" />
+  <link rel="stylesheet" href="css/timer.css?v=1.3" />
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7148141514273746"
      crossorigin="anonymous"></script>
 </head>
@@ -24,10 +25,15 @@ include "php/db.php";
       </p>
     </div>
     <div class="divider_1"></div>
+    <?php
+    include "./components/timer.php";
+    ?>
+    <div class="divider_1"></div>
     <div class="div_1" id="semester_wise_redirects">
       <p>Access the notes, video explanations, live sessions and official lecture recordings as per semester 👇</p>
       <div id="semester_links" class="links_1">
         <a class="important_link" href="1">Semester 1</a>
+        <a class="important_link" href="2">Semester 2</a>
       </div>
     </div>
     <div class="divider_1"></div>
@@ -118,5 +124,6 @@ include "php/db.php";
   </div>
 </body>
 <script src='js/index.js?v=1.1'></script>
+<script src='js/timer.js?v=1.1'></script>
 
 </html>
