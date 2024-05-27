@@ -28,7 +28,7 @@
         <div class="divider_1"></div>
       <div class="links_1">
       <?php
-        $query = "SELECT * FROM `resources` WHERE `subject_code` = '0'  ORDER BY `id` DESC LIMIT 5";
+        $query = "SELECT * FROM `resources` WHERE `subject_code` = '0'  ORDER BY `id` DESC";
         $result = mysqli_query($db, $query);
         if ($result) {
           while ($row = mysqli_fetch_assoc($result)) {
