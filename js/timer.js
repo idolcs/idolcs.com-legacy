@@ -1,4 +1,4 @@
-const target = new Date("June 15, 2024");
+const target = new Date("July 8, 2024");
 const now = new Date();
 let remainingSeconds = target - now;
 const total_chapters = 61;
