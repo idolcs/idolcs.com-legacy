@@ -1,5 +1,5 @@
 <div class="div_1 timer">
-    <p class="timer_heading">Semester 2 Exams scheduled for <b>15th June 2024</b></p>
+    <p class="timer_heading">Semester 2 Exams scheduled for <b>8th July 2024</b></p>
     <div class="timer_clock_wrapper">
         <div class="timer_div">
             <p id="ti_days" class="timer_digit">00</p>
