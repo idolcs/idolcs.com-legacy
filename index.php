@@ -25,10 +25,6 @@ include "php/db.php";
       </p>
     </div>
     <div class="divider_1"></div>
-    <?php
-    include "./components/timer.php";
-    ?>
-    <div class="divider_1"></div>
     <div class="div_1" id="semester_wise_redirects">
       <p>Access the notes, video explanations, live sessions and official lecture recordings as per semester 👇</p>
       <div id="semester_links" class="links_1">
