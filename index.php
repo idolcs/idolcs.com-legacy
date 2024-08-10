@@ -103,10 +103,6 @@ include "php/db.php";
           <img src="assets/telegram_icon.png" alt="" />
           <p>Telegram Channel</p>
         </a>
-        <a target="_blank" href="https://chat.whatsapp.com/Ep71FS3YkEFGUtv9qcudB2" id="whatsapp_link_div">
-          <img src="assets/whatsapp_icon.png" alt="" />
-          <p>Whatsapp Group</p>
-        </a>
       </div>
     </div>
     <div class="divider_1"></div>
